@@ -1,10 +1,10 @@
 # ufo
 uso es una herramienta echa en bash para obtener información de una ip
 ##
-Amagen
+Imagen
 <body>
 
-<img src"xd"/>
+<img src="https://raw.githubusercontent.com/M1R47/M1R47/main/img/SCAR_Screenshot_25059632771608.jpg"/>
 
 </body>
 Instalación
